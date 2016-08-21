@@ -845,6 +845,10 @@
     'zu-ZA': {
       nativeName: "isiZulu",
       englishName: "Zulu"
+    },
+    'mz': {
+      nativeName: "Mazurská gádka",
+      englishName: "Masurian"
     }
   };
 }));
